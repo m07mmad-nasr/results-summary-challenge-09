@@ -25,7 +25,7 @@ Thanks for checking out this front-end coding challenge.
 ### Links
 
 - Solution URL: [Solution](https://github.com/m07mmad-nasr/results-summary-challenge-09)
-- Live Site URL: [Live Site](w)
+- Live Site URL: [Live Site](https://results-summary-challenge-09.vercel.app/)
 
 ## My process
 
